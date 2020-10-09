@@ -20,7 +20,7 @@
     "extract-text-webpack-plugin": "3.0.2",
     "ez.js": "1.0.3",
     "jump.js": "1.0.2",
-    "style-loader": "1.2.1",
+    "style-loader": "2.0.0",
     "webpack": "4.44.1",
     "webpack-dev-server": "3.11.0",
     "xo": "0.32.1"
