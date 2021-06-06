@@ -15,7 +15,7 @@
     "normalize.css": "^8.0.0"
   },
   "devDependencies": {
-    "css-loader": "3.6.0",
+    "css-loader": "5.2.6",
     "document-ready": "github:fabianmoronzirfas/document-ready",
     "extract-text-webpack-plugin": "3.0.2",
     "ez.js": "1.0.3",
